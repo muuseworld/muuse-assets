@@ -1,6 +1,6 @@
 /* MUUSE fonts for Mariana Tek web integration */
 
-/* Font 1: Sequel Sans, Light for body text */
+/* Sequel Sans, Light for body text */
 @font-face {
   font-family: 'Sequel Sans';
   src: url('https://static1.squarespace.com/static/668db9e5de05f8520b2248b3/t/66baebef05456538df045481/1723526128058/Sequel+Sans+Light+Disp.woff') format('woff');
@@ -9,21 +9,11 @@
   font-display: swap;
 }
 
-/* Font 1: Sequel Sans, Medium for subheads and buttons */
+/* Sequel Sans, Medium for headlines, subheads and buttons */
 @font-face {
   font-family: 'Sequel Sans';
   src: url('https://static1.squarespace.com/static/668db9e5de05f8520b2248b3/t/66baebf0e32a8b6e2886ce56/1723526128520/Sequel+Sans+Medium+Disp.woff') format('woff');
   font-weight: 500 700;
-  font-style: normal;
-  font-display: swap;
-}
-
-/* Font 2: Perfectly Nineties, for the headline */
-@font-face {
-  font-family: 'Perfectly Nineties';
-  src: url('https://static1.squarespace.com/static/668db9e5de05f8520b2248b3/t/6a9e091483dd80245e11e130/1788741908288/PerfectlyNineties-Regular.otf') format('opentype'),
-       url('https://static1.squarespace.com/static/668db9e5de05f8520b2248b3/t/6a9e09148e2375552725b7e4/1788741908284/PerfectlyNineties-Regular.ttf') format('truetype');
-  font-weight: 400 700;
   font-style: normal;
   font-display: swap;
 }
